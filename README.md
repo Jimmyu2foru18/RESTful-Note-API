@@ -1,6 +1,6 @@
 # RESTful Note API
 
-A flexible note-taking API built with Node.js and Express that demonstrates both stateless and stateful authentication.
+A flexible note-taking API built with Node.js and Express, stateless and stateful authentication.
 
 ## Project Overview
 
